@@ -1,0 +1,8 @@
+//CMD or Powershell
+
+CD JSX //react project
+
+npm start //runs react app
+
+//CTRL + C stops react in, In CMD/Powershell
+
